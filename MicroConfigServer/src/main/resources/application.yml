@@ -1,0 +1,12 @@
+server:
+  port: '9096'
+spring:
+  application:
+    name: MicroConfigServer
+  cloud:
+    config:
+      server:
+        git:
+          clone-on-start: 'true'
+          uri: https://github.com/RaunakShrivastwa/CommonConfig
+

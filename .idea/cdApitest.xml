@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="cdApiTest">
+    <option name="favouriteCollections">
+      <list>
+        <ApiCollection>
+          <option name="name" value="DefaultCollection" />
+          <option name="order" value="0" />
+        </ApiCollection>
+      </list>
+    </option>
+    <option name="historyCollections">
+      <list>
+        <ApiCollection>
+          <option name="apiRecordList">
+            <list>
+              <ApiRecord>
+                <option name="collection" value="DefaultCollection" />
+                <option name="id" value="167558383129811" />
+                <option name="invokeData">
+                  <InvokeData>
+                    <option name="body" value="" />
+                    <option name="domain" value="http://localhost:8084/rating" />
+                    <option name="grpcCallType" value="Reflection" />
+                    <option name="headers" value="{&quot;Authorization&quot;: &quot;Bearer eyJraWQiOiI0Rk1icHlWMXA0RDFDM1BnbEt0RkVuaTNqeG1LYXhwaUI0eHZkMmlSTTM0IiwiYWxnIjoiUlMyNTYifQ.eyJ2ZXIiOjEsImp0aSI6IkFULktacUtzd2dXOUFYaXZFalZxZTFmYWtEOHhtUnFSbHNEbmlOSWhSSzdqS1Eub2FydnlvNm1mRUpGUm1Bc1M1ZDYiLCJpc3MiOiJodHRwczovL2Rldi0yMDQ0OTg0Ny5va3RhLmNvbS9vYXV0aDIvZGVmYXVsdCIsImF1ZCI6ImFwaTovL2RlZmF1bHQiLCJpYXQiOjE2NzU1ODM1MDEsImV4cCI6MTY3NTU4NzEwMSwiY2lkIjoiMG9hODUxb2kzODBJM3I1Zmw1ZDciLCJ1aWQiOiIwMHU4NTF4MTd5MFR3MmdiYzVkNyIsInNjcCI6WyJvZmZsaW5lX2FjY2VzcyIsImVtYWlsIiwib3BlbmlkIiwicHJvZmlsZSJdLCJhdXRoX3RpbWUiOjE2NzU1ODM0OTcsInN1YiI6ImFiY0BnbWFpbC5jb20iLCJteWNsYWltIjpbIkV2ZXJ5b25lIiwiQWRtaW4iLCJOb3JtYWwiXX0.TTPfcEwcReuGbA-res7xUXcPGybx3swG6PqzAcCYoK3bhUckj-D9wHJudo78emWfx_xrm7LlnkfUd8zREXga1y_QFJi7nfro_cZimLwIJ1hDnXH1Lio30jToMv9NYg2_seVY3-nBht_DiWrBrUOBoiUYDoTsuK00ayalrkJKcqaVHBgSHnkulPXwJXK1FIcacx7O1hLuNPmR4l2Xis2Hu4D2vnFOiuRrWOwluk6Uz-58B_OsJVcGPN0uUOHByL_K3Ec_u-SvIT0vJWjowFWmSu9UBOjJVQ8YoUGVzPZQqRxP6XAiwA04MxlBVhq0ca0ejxcU4v75a6Wjbu5UWbzkIw&quot;}" />
+                    <option name="uri" value="" />
+                  </InvokeData>
+                </option>
+                <option name="invokeType" value="HTTP" />
+                <option name="name" value="http://localhost:8084/rating" />
+                <option name="order" value="0" />
+              </ApiRecord>
+              <ApiRecord>
+                <option name="collection" value="DefaultCollection" />
+                <option name="id" value="167558382461810" />
+                <option name="invokeData">
+                  <InvokeData>
+                    <option name="body" value="" />
+                    <option name="domain" value="http://localhost:8084/rating" />
+                    <option name="grpcCallType" value="Reflection" />
+                    <option name="headers" value="" />
+                    <option name="uri" value="" />
+                  </InvokeData>
+                </option>
+                <option name="invokeType" value="HTTP" />
+                <option name="name" value="http://localhost:8084/rating" />
+                <option name="order" value="0" />
+              </ApiRecord>
+              <ApiRecord>
+                <option name="collection" value="DefaultCollection" />
+                <option name="id" value="16755837673469" />
+                <option name="invokeData">
+                  <InvokeData>
+                    <option name="body" value="" />
+                    <option name="domain" value="http://localhost:8084/user" />
+                    <option name="grpcCallType" value="Reflection" />
+                    <option name="headers" value="" />
+                    <option name="uri" value="" />
+                  </InvokeData>
+                </option>
+                <option name="invokeType" value="HTTP" />
+                <option name="name" value="http://localhost:8084/user" />
+                <option name="order" value="0" />
+              </ApiRecord>
+              <ApiRecord>
+                <option name="collection" value="DefaultCollection" />
+                <option name="id" value="16755837536038" />
+                <option name="invokeData">
+                  <InvokeData>
+                    <option name="body" value="" />
+                    <option name="domain" value="http://localhost:8084/user" />
+                    <option name="grpcCallType" value="Reflection" />
+                    <option name="headers" value="{&quot;Authorization&quot;: &quot;Bearer eyJraWQiOiI0Rk1icHlWMXA0RDFDM1BnbEt0RkVuaTNqeG1LYXhwaUI0eHZkMmlSTTM0IiwiYWxnIjoiUlMyNTYifQ.eyJ2ZXIiOjEsImp0aSI6IkFULktacUtzd2dXOUFYaXZFalZxZTFmYWtEOHhtUnFSbHNEbmlOSWhSSzdqS1Eub2FydnlvNm1mRUpGUm1Bc1M1ZDYiLCJpc3MiOiJodHRwczovL2Rldi0yMDQ0OTg0Ny5va3RhLmNvbS9vYXV0aDIvZGVmYXVsdCIsImF1ZCI6ImFwaTovL2RlZmF1bHQiLCJpYXQiOjE2NzU1ODM1MDEsImV4cCI6MTY3NTU4NzEwMSwiY2lkIjoiMG9hODUxb2kzODBJM3I1Zmw1ZDciLCJ1aWQiOiIwMHU4NTF4MTd5MFR3MmdiYzVkNyIsInNjcCI6WyJvZmZsaW5lX2FjY2VzcyIsImVtYWlsIiwib3BlbmlkIiwicHJvZmlsZSJdLCJhdXRoX3RpbWUiOjE2NzU1ODM0OTcsInN1YiI6ImFiY0BnbWFpbC5jb20iLCJteWNsYWltIjpbIkV2ZXJ5b25lIiwiQWRtaW4iLCJOb3JtYWwiXX0.TTPfcEwcReuGbA-res7xUXcPGybx3swG6PqzAcCYoK3bhUckj-D9wHJudo78emWfx_xrm7LlnkfUd8zREXga1y_QFJi7nfro_cZimLwIJ1hDnXH1Lio30jToMv9NYg2_seVY3-nBht_DiWrBrUOBoiUYDoTsuK00ayalrkJKcqaVHBgSHnkulPXwJXK1FIcacx7O1hLuNPmR4l2Xis2Hu4D2vnFOiuRrWOwluk6Uz-58B_OsJVcGPN0uUOHByL_K3Ec_u-SvIT0vJWjowFWmSu9UBOjJVQ8YoUGVzPZQqRxP6XAiwA04MxlBVhq0ca0ejxcU4v75a6Wjbu5UWbzkIw&quot;}" />
+                    <option name="uri" value="" />
+                  </InvokeData>
+                </option>
+                <option name="invokeType" value="HTTP" />
+                <option name="name" value="http://localhost:8084/user" />
+                <option name="order" value="0" />
+              </ApiRecord>
+              <ApiRecord>
+                <option name="collection" value="DefaultCollection" />
+                <option name="id" value="16755837156777" />
+                <option name="invokeData">
+                  <InvokeData>
+                    <option name="body" value="" />
+                    <option name="domain" value="http://localhost:8084/user/1" />
+                    <option name="grpcCallType" value="Reflection" />
+                    <option name="headers" value="{&quot;Authorization&quot;: &quot;Bearer eyJraWQiOiI0Rk1icHlWMXA0RDFDM1BnbEt0RkVuaTNqeG1LYXhwaUI0eHZkMmlSTTM0IiwiYWxnIjoiUlMyNTYifQ.eyJ2ZXIiOjEsImp0aSI6IkFULktacUtzd2dXOUFYaXZFalZxZTFmYWtEOHhtUnFSbHNEbmlOSWhSSzdqS1Eub2FydnlvNm1mRUpGUm1Bc1M1ZDYiLCJpc3MiOiJodHRwczovL2Rldi0yMDQ0OTg0Ny5va3RhLmNvbS9vYXV0aDIvZGVmYXVsdCIsImF1ZCI6ImFwaTovL2RlZmF1bHQiLCJpYXQiOjE2NzU1ODM1MDEsImV4cCI6MTY3NTU4NzEwMSwiY2lkIjoiMG9hODUxb2kzODBJM3I1Zmw1ZDciLCJ1aWQiOiIwMHU4NTF4MTd5MFR3MmdiYzVkNyIsInNjcCI6WyJvZmZsaW5lX2FjY2VzcyIsImVtYWlsIiwib3BlbmlkIiwicHJvZmlsZSJdLCJhdXRoX3RpbWUiOjE2NzU1ODM0OTcsInN1YiI6ImFiY0BnbWFpbC5jb20iLCJteWNsYWltIjpbIkV2ZXJ5b25lIiwiQWRtaW4iLCJOb3JtYWwiXX0.TTPfcEwcReuGbA-res7xUXcPGybx3swG6PqzAcCYoK3bhUckj-D9wHJudo78emWfx_xrm7LlnkfUd8zREXga1y_QFJi7nfro_cZimLwIJ1hDnXH1Lio30jToMv9NYg2_seVY3-nBht_DiWrBrUOBoiUYDoTsuK00ayalrkJKcqaVHBgSHnkulPXwJXK1FIcacx7O1hLuNPmR4l2Xis2Hu4D2vnFOiuRrWOwluk6Uz-58B_OsJVcGPN0uUOHByL_K3Ec_u-SvIT0vJWjowFWmSu9UBOjJVQ8YoUGVzPZQqRxP6XAiwA04MxlBVhq0ca0ejxcU4v75a6Wjbu5UWbzkIw&quot;}" />
+                    <option name="uri" value="" />
+                  </InvokeData>
+                </option>
+                <option name="invokeType" value="HTTP" />
+                <option name="name" value="http://localhost:8084/user/1" />
+                <option name="order" value="0" />
+              </ApiRecord>
+              <ApiRecord>
+                <option name="collection" value="DefaultCollection" />
+                <option name="id" value="16755836247155" />
+                <option name="invokeData">
+                  <InvokeData>
+                    <option name="body" value="" />
+                    <option name="grpcCallType" value="Reflection" />
+                    <option name="headers" value="{&quot;Authorization&quot;: &quot;Bearer eyJraWQiOiI0Rk1icHlWMXA0RDFDM1BnbEt0RkVuaTNqeG1LYXhwaUI0eHZkMmlSTTM0IiwiYWxnIjoiUlMyNTYifQ.eyJ2ZXIiOjEsImp0aSI6IkFULktacUtzd2dXOUFYaXZFalZxZTFmYWtEOHhtUnFSbHNEbmlOSWhSSzdqS1Eub2FydnlvNm1mRUpGUm1Bc1M1ZDYiLCJpc3MiOiJodHRwczovL2Rldi0yMDQ0OTg0Ny5va3RhLmNvbS9vYXV0aDIvZGVmYXVsdCIsImF1ZCI6ImFwaTovL2RlZmF1bHQiLCJpYXQiOjE2NzU1ODM1MDEsImV4cCI6MTY3NTU4NzEwMSwiY2lkIjoiMG9hODUxb2kzODBJM3I1Zmw1ZDciLCJ1aWQiOiIwMHU4NTF4MTd5MFR3MmdiYzVkNyIsInNjcCI6WyJvZmZsaW5lX2FjY2VzcyIsImVtYWlsIiwib3BlbmlkIiwicHJvZmlsZSJdLCJhdXRoX3RpbWUiOjE2NzU1ODM0OTcsInN1YiI6ImFiY0BnbWFpbC5jb20iLCJteWNsYWltIjpbIkV2ZXJ5b25lIiwiQWRtaW4iLCJOb3JtYWwiXX0.TTPfcEwcReuGbA-res7xUXcPGybx3swG6PqzAcCYoK3bhUckj-D9wHJudo78emWfx_xrm7LlnkfUd8zREXga1y_QFJi7nfro_cZimLwIJ1hDnXH1Lio30jToMv9NYg2_seVY3-nBht_DiWrBrUOBoiUYDoTsuK00ayalrkJKcqaVHBgSHnkulPXwJXK1FIcacx7O1hLuNPmR4l2Xis2Hu4D2vnFOiuRrWOwluk6Uz-58B_OsJVcGPN0uUOHByL_K3Ec_u-SvIT0vJWjowFWmSu9UBOjJVQ8YoUGVzPZQqRxP6XAiwA04MxlBVhq0ca0ejxcU4v75a6Wjbu5UWbzkIw&quot;}" />
+                    <option name="uri" value="http://localhost:8084/user" />
+                  </InvokeData>
+                </option>
+                <option name="invokeType" value="HTTP" />
+                <option name="name" value="http://localhost:8080/http://localhost:8084/user" />
+                <option name="order" value="0" />
+              </ApiRecord>
+              <ApiRecord>
+                <option name="collection" value="DefaultCollection" />
+                <option name="id" value="16755834374523" />
+                <option name="invokeData">
+                  <InvokeData>
+                    <option name="body" value="" />
+                    <option name="grpcCallType" value="Reflection" />
+                    <option name="uri" value="http://localhost:8084/user" />
+                  </InvokeData>
+                </option>
+                <option name="invokeType" value="HTTP" />
+                <option name="name" value="http://localhost:8080/http://localhost:8084/user" />
+                <option name="order" value="0" />
+              </ApiRecord>
+              <ApiRecord>
+                <option name="collection" value="DefaultCollection" />
+                <option name="id" value="16755834206412" />
+                <option name="invokeData">
+                  <InvokeData>
+                    <option name="body" value="" />
+                    <option name="grpcCallType" value="Reflection" />
+                    <option name="uri" value="localhost:8084/user" />
+                  </InvokeData>
+                </option>
+                <option name="invokeType" value="HTTP" />
+                <option name="name" value="http://localhost:8080/localhost:8084/user" />
+                <option name="order" value="0" />
+              </ApiRecord>
+              <ApiRecord>
+                <option name="collection" value="DefaultCollection" />
+                <option name="id" value="16755833627111" />
+                <option name="invokeData">
+                  <InvokeData>
+                    <option name="body" value="" />
+                    <option name="domain" value="http://localhost:9091/user" />
+                    <option name="grpcCallType" value="Reflection" />
+                    <option name="uri" value="" />
+                  </InvokeData>
+                </option>
+                <option name="invokeType" value="HTTP" />
+                <option name="name" value="http://localhost:9091/user" />
+                <option name="order" value="0" />
+              </ApiRecord>
+              <ApiRecord>
+                <option name="collection" value="DefaultCollection" />
+                <option name="id" value="16755833373850" />
+                <option name="invokeData">
+                  <InvokeData>
+                    <option name="body" value="" />
+                    <option name="domain" value="http://localhost:8084/user" />
+                    <option name="grpcCallType" value="Reflection" />
+                    <option name="uri" value="" />
+                  </InvokeData>
+                </option>
+                <option name="invokeType" value="HTTP" />
+                <option name="name" value="http://localhost:8084/user" />
+                <option name="order" value="0" />
+              </ApiRecord>
+            </list>
+          </option>
+          <option name="name" value="DefaultCollection" />
+          <option name="order" value="0" />
+        </ApiCollection>
+      </list>
+    </option>
+    <option name="httpDomainHistories">
+      <list>
+        <HttpDomainHistory>
+          <option name="text" value="http://localhost:8084/rating" />
+          <option name="timestamp" value="1675583824617" />
+        </HttpDomainHistory>
+        <HttpDomainHistory>
+          <option name="text" value="http://localhost:8084/user" />
+          <option name="timestamp" value="1675583767345" />
+        </HttpDomainHistory>
+        <HttpDomainHistory>
+          <option name="text" value="http://localhost:8084/user/1" />
+          <option name="timestamp" value="1675583715675" />
+        </HttpDomainHistory>
+        <HttpDomainHistory>
+          <option name="text" value="http://localhost:8080" />
+          <option name="timestamp" value="1675583624713" />
+        </HttpDomainHistory>
+        <HttpDomainHistory>
+          <option name="text" value="http://localhost:9091/user" />
+          <option name="timestamp" value="1675583362710" />
+        </HttpDomainHistory>
+      </list>
+    </option>
+  </component>
+</project>

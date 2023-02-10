@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MicroConfigServer" />
+        <module name="User" />
+        <module name="Rating" />
+        <module name="APIGateWay" />
+        <module name="ServerRegistery" />
+        <module name="UserGateWay" />
+        <module name="Hotel" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="APIGateWay" target="17" />
+      <module name="Hotel" target="17" />
+      <module name="MicroConfigServer" target="17" />
+      <module name="Rating" target="17" />
+      <module name="ServerRegistery" target="17" />
+      <module name="User" target="17" />
+      <module name="UserGateWay" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="APIGateWay" options="-parameters" />
+      <module name="Hotel" options="-parameters" />
+      <module name="MicroConfigServer" options="-parameters" />
+      <module name="Rating" options="-parameters" />
+      <module name="ServerRegistery" options="-parameters" />
+      <module name="User" options="-parameters" />
+      <module name="UserGateWay" options="-parameters" />
+    </option>
+  </component>
+</project>
